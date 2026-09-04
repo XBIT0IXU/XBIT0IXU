@@ -1,5 +1,9 @@
 # XBIT0IXU
 
+<p align="center">
+  <img src="assets/icon/xbit0ixu.png" alt="XBIT0IXU icon" width="240">
+</p>
+
 ### Helping operators operate.
 
 Building practical Linux tools, systems, and open-source software.
