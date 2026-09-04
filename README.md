@@ -6,7 +6,7 @@
 
 ### Helping operators operate.
 
-Building practical Linux tools, systems, and open-source software.
+Building practical Linux tools, systems, and source-available software.
 
 ---
 
@@ -25,7 +25,7 @@ The objective is simple:
 - Secure communications and connectivity
 - Operator-focused interfaces
 - Automation and workflow tooling
-- Open-source software development
+- Source-available software development
 
 ## Projects
 
